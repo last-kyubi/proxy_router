@@ -3,11 +3,12 @@
 #Requirements
 requests and psutils (pip3)
 proxychains
-Neo-reGeorg (installed in project's root directory)
+Neo-reGeorg (installed in project's root directory) \n\n
 
 #What is the purpose of this project?
 proxy_router is a project that wants to centralize all the Neo_Regeorg (https://github.com/L-codes/Neo-reGeorg) backdoors into a single json file.
 
+\n\n
 #Key Features
 ~List all proxies from JSON file;
 ~Select a proxy by it's ID;
@@ -15,6 +16,7 @@ proxy_router is a project that wants to centralize all the Neo_Regeorg (https://
 ~Edit/Clean the proxychain routing table according to needings;
 ~Kill running tunnels;
 
+\n\n
 #Usage
 List Proxies
 python3 router.py --list
