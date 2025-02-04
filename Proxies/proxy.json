@@ -1,0 +1,9 @@
+[
+    {
+        "id" : "1",
+        "country" : "Local",
+        "url" : "http://127.0.0.1/tunnel.php",
+        "psw" : "examplepsw",
+        "type" : "Neo-ReGeorg"
+    }
+]
